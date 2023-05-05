@@ -1,6 +1,10 @@
 # plotToPrint
 A workflow for converting ggplot visualizations to 3D print files.
 
+Using the Rayshader package from Tyler Morgan-Wall. 
+
+https://stl-viewer.dualbox.com was used for higher quality renders of the STL files. 
+
 ## Generate plot using dark mode
 
 ```r
